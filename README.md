@@ -19,7 +19,7 @@ Firebase Cloud Messaging (FCM) token (for sending push notifications)
 We use the information we collect to:
 Create and manage your account
 Enable booking features with your chosen business
-Send you appointment confirmations and reminders
+Send appointment confirmations, reminders, and updates by SMS (via Twilio) or push notification (via FCM/Apple Push)
 Allow businesses to get insights on their work and performance
 Provide push notifications related to your account or bookings
 Improve and maintain the App’s functionality
