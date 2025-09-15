@@ -6,7 +6,8 @@ Effective Date: August 28, 2025
 **1. Information We Collect**
 
 When you create an account or use the App, we may collect: 
-First and last name<br>
+
+First and last name
 
 Email address
 
