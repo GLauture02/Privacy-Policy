@@ -23,19 +23,28 @@ Firebase Cloud Messaging (FCM) token (for sending push notifications)
 **2. How We Use Your Information**
 
 We use the information we collect to:
+
 Create and manage your account
+
 Enable booking features with your chosen business
+
 Send appointment confirmations, reminders, and updates by SMS (via Twilio) or push notification (via FCM/Apple Push)
+
 Allow businesses to get insights on their work and performance
+
 Provide push notifications related to your account or bookings
+
 Improve and maintain the App’s functionality
 
 
 **3. Data Sharing and Disclosure**
 
 We do not sell or share your personal information with third parties for marketing.
+
 We may share limited data with:
+
 Service providers (such as Firebase, or Twilio) to support app functionality
+
 Legal authorities if required by law
 
 
@@ -47,7 +56,9 @@ We implement reasonable safeguards (including secure authentication and encrypte
 **5. Your Choices**
 
 You may update your first and last name within the App.
+
 You may disable push notifications at any time in your device settings.
+
 You may request deletion of your account and all data associated with it by contacting us at gabriel@glowsoftwares.com.
 
 
