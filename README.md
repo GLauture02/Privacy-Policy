@@ -5,12 +5,17 @@ Effective Date: August 28, 2025
 
 **1. Information We Collect**
 
-When you create an account or use the App, we may collect:
+When you create an account or use the App, we may collect: 
 First and last name
+
 Email address
+
 Phone number
+
 Business ID (to identify your business)
+
 Password (stored securely)
+
 Firebase Cloud Messaging (FCM) token (for sending push notifications)
 
 
