@@ -29,7 +29,7 @@ Improve and maintain the App’s functionality
 
 We do not sell or share your personal information with third parties for marketing.
 We may share limited data with:
-Service providers (such as Firebase) to support app functionality
+Service providers (such as Firebase, or Twilio) to support app functionality
 Legal authorities if required by law
 
 
